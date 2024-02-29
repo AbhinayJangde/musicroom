@@ -99,6 +99,16 @@
         "instructor": "Ethan Moore",
         "isFeatured": true,
         "image": "/courses/blues.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Jarvis Guitar Techniques",
+        "slug": "jarvis-guitar-techniques",
+        "description": "Discover the techniques of jarvis guitar to add soul and depth to your playing.",
+        "price": 199.99,
+        "instructor": "Taazeem Moore",
+        "isFeatured": true,
+        "image": "/courses/jarvis.jpg"
       }
     ]
   }
